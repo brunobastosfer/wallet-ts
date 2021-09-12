@@ -5,11 +5,12 @@ export const GlobalStyle = createGlobalStyle`
     --background: #f0f2f5;
     --red: #e52e4d;
     --blue: #5429cc;
+    --gren: #33cc95;
 
-    --blue-ligth: #6933ff;
+    --blue_ligth: #6933FF;
 
-    --text-title: #363f5f;
-    --text-body: #969cb3;
+    --text_title: #363f5f;
+    --text_body: #969cb3;
 
     --shape: #ffffff;
   }
